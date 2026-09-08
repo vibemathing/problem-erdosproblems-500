@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-erdosproblems-500`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1361065997`
+- Repository node ID: `R_kgDOUSA4DQ`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
+- Canonical Problem: `problem:erdosproblems-500`
+- ProblemContract SHA-256: `6681ffabf9ec41445029c010a6b8b977bb977ab01eb2d9af306661af72d7a35a`
 - Problem lifecycle: `draft`
 - Problem admission: `preview_unadmitted`
 - Harness suite: `harness-source:web-research-full` `1.2.4`
 - Suite manifest SHA-256: `fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3`
-- Harness snapshot SHA-256: `a9ae2bc14e33fba31934d2a44e3c37bfbb52a3a1cf098d646b31c9c5ddf173e3`
+- Harness snapshot SHA-256: `61515f1348c79aadd94040523a9435fa1a574abf3e1868415799fe4abaa04864`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
